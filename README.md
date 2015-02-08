@@ -16,6 +16,8 @@ Topics covered
 - Running the R scripts
 - How the input was processed  
 - Output files
+- Plot backgrounds
+- README files
 
 
 Project overview
@@ -87,3 +89,12 @@ The output file for each R script "plot1-4.png" is written to the working direct
  
 Output files can be examined by clicking on them in GitHub, or by use of a graphics viewer that supports.png formatted files.
 
+
+Plot Backgrounds
+-----------
+There was [extensive discussion](https://class.coursera.org/exdata-011/forum/thread?thread_id=24) in the forum regarding whether to produce plots with white or transparent background. Apparently, different views of the reference plots (within Markdown doc, on the class webpage, using a file viewer, etc) produced different renderings. I have elected to reproduce the plots' white background appearance given on the [Coursera class website Course Projects Project 1 Submission page](https://class.coursera.org/exdata-011/human_grading/view/courses/973505/assessments/3/submissions). 
+
+
+README files
+-----------
+Normal practice as presented by the Dr. Peng and his partners in previous Data Science sessions calls for submittal of a README file containing descriptive information regarding the included files. Since the assignment instructions require cloning of DR. Peng's GitHub repo for this project, the cloned README file has been renamed to "Dr Peng's README.md", and this README added for compliance to documentation practice.
