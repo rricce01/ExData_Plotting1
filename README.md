@@ -97,4 +97,4 @@ There was [extensive discussion](https://class.coursera.org/exdata-011/forum/thr
 
 README files
 -----------
-Normal practice as presented by the Dr. Peng and his partners in previous Data Science sessions calls for submittal of a README file containing descriptive information regarding the included files. Since the assignment instructions require cloning of DR. Peng's GitHub repo for this project, the cloned README file has been renamed to "Dr Peng's README.md", and this README added for compliance to documentation practice.
+Normal practice as presented by Dr. Peng and his partners in previous Data Science sessions calls for submittal of a README file containing descriptive information regarding the uploaded files. Since the assignment instructions require cloning of Dr. Peng's GitHub repo for this project, the cloned file "README.md" has been renamed to "Dr Peng's README.md", and this "README.md" file added for compliance to documentation practice.
